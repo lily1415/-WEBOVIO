@@ -51,7 +51,7 @@ body {
 
 /* Dark green slide for the rest of the content */
 .dark-slide {
-    background-image: url(.back2.png);
+    background-image: url(back2.png);
 }
 
 /* Content Header */
@@ -217,4 +217,5 @@ body {
     }
 
 }
+
 
